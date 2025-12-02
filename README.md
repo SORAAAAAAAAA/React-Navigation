@@ -69,11 +69,11 @@ npm run web
 
 ## Challenges Faced
 
-[Describe any challenges you encountered and how you resolved them]
+A challenge that I have faced during the development setup is that I had a problem where the appEntry.js is not being found because i have put the app.js inside the screens directory but it is supposed to be in the root directory.
 
 ## Learning Outcomes
 
-[Describe what you learned from this lab activity]
+I have learned how to set up a react-native setup for development.
 
 ## References
 
